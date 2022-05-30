@@ -1,0 +1,48 @@
+.main {
+     -fx-background-image: url("com/example/jonsle/img/homeBG.png");
+     -fx-background-size: 100% 100%;   
+}
+
+.inv {
+	-fx-background-image: url("com/example/jonsle/img/invBG.png");
+	-fx-background-size: 100% 100%;
+}
+
+.lu {
+	-fx-background-image: url("com/example/jonsle/img/LuBG.png");
+	-fx-background-size: 100% 100%;
+}
+
+.inverse {
+	-fx-background-color : #97c9e5;
+}
+
+.generate {
+	-fx-background-color: #12CE12;
+}
+
+.back {
+	-fx-background-color: #F03737;
+}
+
+.action {
+	-fx-background-color: #04b5ff;
+}
+
+
+.inverse:hover{
+	-fx-background-color: #448CA5;
+}
+
+
+.back:hover{
+	-fx-background-color: #7B0000;
+}
+
+.generate:hover{
+	-fx-background-color: #1E7B0C;
+}
+
+.action:hover{
+	-fx-background-color: #0989C1;
+}
