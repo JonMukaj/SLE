@@ -26,8 +26,6 @@ https://www.python.org/downloads/
 
 <h1 alig="left">Images</h1>
 
-<p><img align="left" src="https://github.com/JonMukaj/SLE/blob/master/res/thumbnail.PNG?raw=true" alt="jon"/></p>
-
 <p><img align="left" src="https://github.com/JonMukaj/SLE/blob/master/res/inverse.PNG?raw=true" alt="jon"/></p>
 
 <p><img align="left" src="https://github.com/JonMukaj/SLE/blob/master/res/lu.PNG?raw=true" alt="jon"/></p>
